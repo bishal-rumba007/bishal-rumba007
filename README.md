@@ -1,5 +1,5 @@
-Hi 👋 My name is Bishal Rumba
-=============================
+Hi, I am Bishal Rumba
+----------------------
 
 Software Engineer
 -----------------
@@ -8,5 +8,12 @@ Software Engineer
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [thatflutterdev@gmail.com](mailto:thatflutterdev@gmail.com)
-* 🚀  I'm currently working on [Catering Service Solution](http://github.com/bishal-rumba007/catering-user-app)
+* 🚀  I'm currently working on [Catering Service App](http://github.com/bishal-rumba007/catering-user-app)
+* 🧠  I'm learning Spring/Spring Boot
 
+### Skills
+
+
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+</p>
