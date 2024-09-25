@@ -8,8 +8,7 @@ Software Engineer
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [thatflutterdev@gmail.com](mailto:thatflutterdev@gmail.com)
-* 🚀  I'm currently working on [Catering Service App](http://github.com/bishal-rumba007/catering-user-app)
-* 🧠  I'm learning Spring/Spring Boot
+* 🧠  I'm learning Python/Django
 
 ### Skills
 
