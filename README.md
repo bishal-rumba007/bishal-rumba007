@@ -8,7 +8,7 @@ Software Engineer
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [thatflutterdev@gmail.com](mailto:thatflutterdev@gmail.com)
-* 🧠  I'm learning Python/Django
+* 🧠  I'm learning Python Fast API and GraphQl
 
 ### Skills
 
