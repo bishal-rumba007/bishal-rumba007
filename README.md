@@ -4,7 +4,7 @@ Hi, I am Bishal Rumba
 Software Engineer
 -----------------
 
-🚀 Mobile App Developer with 2 years of experience, passionate about UI/UX design. I'm on a constant learning journey, exploring new tech and crafting user-centric solutions. Open to collaborations for creating impactful products. Let's connect and build something awesome!
+🚀 Mobile App Developer and passionate about UI/UX design. I'm on a constant learning journey, exploring new tech and crafting user-centric solutions. Open to collaborations for creating impactful products. Let's connect and build something awesome!
 
 * 🌍  I'm based in Kathmandu, Nepal
 * ✉️  You can contact me at [thatflutterdev@gmail.com](mailto:thatflutterdev@gmail.com)
